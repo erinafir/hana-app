@@ -1,0 +1,538 @@
+{
+  "users": [],
+  "wishlist": [],
+  "products": [
+    {
+      "name": "ECINOS Man - Pragma Linen Pants - Celana Panjang Pria (Ankle Cut Pants with Premium Linen Fabric)",
+      "slug": "ecinos-man-pragma-linen-pants",
+      "description": "Ankle cut pants made with premium linen fabric for a stylish and comfortable fit.",
+      "excerpt": "Ankle cut pants with premium linen fabric.",
+      "price": 500000,
+      "tags": ["pants", "men", "linen", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/7/6/23e98a28-ef3e-4882-bb63-d6893525fb0d.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/7/6/23e98a28-ef3e-4882-bb63-d6893525fb0d.jpg"
+      ],
+      "createdAt": "2024-07-31T12:00:00Z",
+      "updatedAt": "2024-07-31T12:00:00Z"
+    },
+    {
+      "name": "ECINOS Man - Storge Linen Shirt - Atasan Pria (Open Collar Linen Short Sleeve Shirt)",
+      "slug": "ecinos-man-storge-linen-shirt",
+      "description": "Open collar short sleeve shirt made with premium linen for a comfortable and stylish look.",
+      "excerpt": "Open collar linen short sleeve shirt.",
+      "price": 350000,
+      "tags": ["shirt", "men", "linen", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/7/7/3f4de418-39d6-48fb-b568-6d2190e7a0e1.png",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/7/7/3f4de418-39d6-48fb-b568-6d2190e7a0e1.png"
+      ],
+      "createdAt": "2024-07-31T12:00:00Z",
+      "updatedAt": "2024-07-31T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Agape Linen Trousers - Celana Panjang Wanita (Highwaisted Straight Cut Pants with Premium Linen Fabric)",
+      "slug": "ecinos-agape-linen-trousers",
+      "description": "Highwaisted straight cut trousers made with premium linen fabric for a stylish and comfortable fit.",
+      "excerpt": "Highwaisted straight cut linen trousers.",
+      "price": 550000,
+      "tags": ["trousers", "women", "linen", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/7/26/c20771cd-21f7-4008-b5e4-565dd3b90e46.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/7/26/c20771cd-21f7-4008-b5e4-565dd3b90e46.jpg"
+      ],
+      "createdAt": "2024-07-31T12:00:00Z",
+      "updatedAt": "2024-07-31T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Philia Oversized Linen Shirt - Atasan Wanita (Oversized Shirt with Premium Linen Fabric)",
+      "slug": "ecinos-philia-oversized-linen-shirt",
+      "description": "Oversized shirt made with premium linen fabric for a stylish and comfortable fit.",
+      "excerpt": "Oversized linen shirt.",
+      "price": 400000,
+      "tags": ["shirt", "women", "linen", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/7/6/e4ca63ec-9166-4fec-b820-2f70ab57a28c.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/7/6/e4ca63ec-9166-4fec-b820-2f70ab57a28c.jpg"
+      ],
+      "createdAt": "2024-07-31T12:00:00Z",
+      "updatedAt": "2024-07-31T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Ludus Linen Skort - Bawahan Wanita (Mini Skort with Inner Lining)",
+      "slug": "ecinos-ludus-linen-skort",
+      "description": "Mini skort with inner lining made with premium linen fabric for a stylish and comfortable fit.",
+      "excerpt": "Mini linen skort with inner lining.",
+      "price": 450000,
+      "tags": ["skort", "women", "linen", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/7/6/8c416ead-77cc-4f31-8814-c4dd90bb87f5.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/7/6/8c416ead-77cc-4f31-8814-c4dd90bb87f5.jpg"
+      ],
+      "createdAt": "2024-07-31T12:00:00Z",
+      "updatedAt": "2024-07-31T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Eros Linen Vest - Atasan Wanita (Linen Vest with Adjustable Waist-strap)",
+      "slug": "ecinos-eros-linen-vest",
+      "description": "Linen vest with adjustable waist-strap for a stylish and comfortable fit.",
+      "excerpt": "Linen vest with adjustable waist-strap.",
+      "price": 300000,
+      "tags": ["vest", "women", "linen", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/7/6/93d7500a-7c71-4a52-af3a-e02ccae781b1.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/7/6/93d7500a-7c71-4a52-af3a-e02ccae781b1.jpg"
+      ],
+      "createdAt": "2024-07-31T12:00:00Z",
+      "updatedAt": "2024-07-31T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Content Creator Shorts",
+      "slug": "ecinos-content-creator-shorts",
+      "description": "Stylish and comfortable shorts designed for content creators.",
+      "excerpt": "Comfortable shorts for content creators.",
+      "price": 250000,
+      "tags": ["shorts", "unisex", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/5/5/7a3f68fc-d29a-4ad7-a738-98e390eac0e1.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/5/5/7a3f68fc-d29a-4ad7-a738-98e390eac0e1.jpg"
+      ],
+      "createdAt": "2024-07-31T12:00:00Z",
+      "updatedAt": "2024-07-31T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Designer Ribbed Pants",
+      "slug": "ecinos-designer-ribbed-pants",
+      "description": "Stylish ribbed pants designed for fashion-forward individuals.",
+      "excerpt": "Ribbed pants for a stylish look.",
+      "price": 600000,
+      "tags": ["pants", "unisex", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/5/5/76753899-0b88-4c53-b424-d1a4ca79e5e0.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/5/5/76753899-0b88-4c53-b424-d1a4ca79e5e0.jpg"
+      ],
+      "createdAt": "2024-07-31T12:00:00Z",
+      "updatedAt": "2024-07-31T12:00:00Z"
+    },
+    {
+      "name": "ECINOS Man - Consultant Shirt",
+      "slug": "ecinos-man-consultant-shirt",
+      "description": "Consultant shirt designed for a professional and stylish look.",
+      "excerpt": "Professional consultant shirt.",
+      "price": 700000,
+      "tags": ["shirt", "men", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/6/20/24961671-f3fd-4bc8-a876-4bbffa9e76e1.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/6/20/24961671-f3fd-4bc8-a876-4bbffa9e76e1.jpg"
+      ],
+      "createdAt": "2024-07-31T12:00:00Z",
+      "updatedAt": "2024-07-31T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - HR Off Shoulder Knit Top",
+      "slug": "ecinos-hr-off-shoulder-knit-top",
+      "description": "Stylish off-shoulder knit top, perfect for a fashionable and comfortable look.",
+      "excerpt": "Off-shoulder knit top for a fashionable look.",
+      "price": 300000,
+      "tags": ["top", "women", "knit", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/6/4/7f49cba1-f6a0-4534-a9fa-4af0f0d3b9e5.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/6/4/7f49cba1-f6a0-4534-a9fa-4af0f0d3b9e5.jpg"
+      ],
+      "createdAt": "2024-07-31T12:00:00Z",
+      "updatedAt": "2024-07-31T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Marketing Twisted Knit Top",
+      "slug": "ecinos-marketing-twisted-knit-top",
+      "description": "Twisted knit top designed for a stylish and modern look.",
+      "excerpt": "Twisted knit top for a modern look.",
+      "price": 320000,
+      "tags": ["top", "women", "knit", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/5/5/bd605de2-4135-4714-ae52-1536f0b38702.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/5/5/bd605de2-4135-4714-ae52-1536f0b38702.jpg"
+      ],
+      "createdAt": "2024-07-31T12:00:00Z",
+      "updatedAt": "2024-07-31T12:00:00Z"
+    },
+    {
+      "name": "ECINOS Man - Mandarin Collar Shirt",
+      "slug": "ecinos-man-mandarin-collar-shirt",
+      "description": "Mandarin collar shirt designed for a professional and stylish look.",
+      "excerpt": "Professional mandarin collar shirt.",
+      "price": 350000,
+      "tags": ["shirt", "men", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/6/20/c5e1b1f8-a81d-4351-a4ff-992cc140f26a.png",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/6/20/c5e1b1f8-a81d-4351-a4ff-992cc140f26a.png"
+      ],
+      "createdAt": "2024-07-31T12:00:00Z",
+      "updatedAt": "2024-07-31T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Moon Top",
+      "slug": "ecinos-moon-top",
+      "description": "Stylish and comfortable moon top, perfect for any occasion.",
+      "excerpt": "Stylish moon top for any occasion.",
+      "price": 280000,
+      "tags": ["top", "women", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/1/11/be9952f5-7680-49a3-93eb-72ca821ecf1b.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/1/11/be9952f5-7680-49a3-93eb-72ca821ecf1b.jpg"
+      ],
+      "createdAt": "2024-07-31T12:00:00Z",
+      "updatedAt": "2024-07-31T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Times Fitted Cardigan",
+      "slug": "ecinos-times-fitted-cardigan",
+      "description": "Fitted cardigan designed for a stylish and comfortable look.",
+      "excerpt": "Fitted cardigan for a stylish look.",
+      "price": 340000,
+      "tags": ["cardigan", "women", "knit", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/12/15/05e4eb83-8f3c-4bb7-908b-803779874af1.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/12/15/05e4eb83-8f3c-4bb7-908b-803779874af1.jpg"
+      ],
+      "createdAt": "2024-07-31T12:00:00Z",
+      "updatedAt": "2024-07-31T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Centuries Pleated Skirt",
+      "slug": "ecinos-centuries-pleated-skirt",
+      "description": "Elegant pleated skirt, perfect for a chic and sophisticated look.",
+      "excerpt": "Elegant pleated skirt for a sophisticated look.",
+      "price": 250000,
+      "tags": ["skirt", "women", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/12/12/cfb85489-3168-40a3-85f2-0e62c426d460.png",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/12/12/cfb85489-3168-40a3-85f2-0e62c426d460.png"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Millennium Trousers",
+      "slug": "ecinos-millennium-trousers",
+      "description": "Stylish trousers designed for a modern and fashionable look.",
+      "excerpt": "Stylish trousers for a modern look.",
+      "price": 300000,
+      "tags": ["trousers", "women", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/12/12/bdf13c42-130e-4fee-befb-19a276e940ad.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/12/12/bdf13c42-130e-4fee-befb-19a276e940ad.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Years Top",
+      "slug": "ecinos-years-top",
+      "description": "Trendy top designed for a stylish and comfortable look.",
+      "excerpt": "Trendy top for a stylish look.",
+      "price": 200000,
+      "tags": ["top", "women", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/1/26/c5a4c3cd-42ef-4f22-b1d2-99e5916b44b1.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/1/26/c5a4c3cd-42ef-4f22-b1d2-99e5916b44b1.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Decades Top",
+      "slug": "ecinos-decades-top",
+      "description": "Stylish and comfortable top, perfect for any occasion.",
+      "excerpt": "Stylish top for any occasion.",
+      "price": 220000,
+      "tags": ["top", "women", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/1/26/3efacd66-ad8c-4cc6-9064-9b627d97eeb2.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/1/26/3efacd66-ad8c-4cc6-9064-9b627d97eeb2.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Natasha Knitted Dress",
+      "slug": "ecinos-natasha-knitted-dress",
+      "description": "Elegant knitted dress designed for a chic and comfortable look.",
+      "excerpt": "Elegant knitted dress for a chic look.",
+      "price": 320000,
+      "tags": ["dress", "women", "knit", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/11/10/78ef0318-f6f3-4e31-b589-a89d319d3198.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/11/10/78ef0318-f6f3-4e31-b589-a89d319d3198.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Hanni Knitted Cardigan",
+      "slug": "ecinos-hanni-knitted-cardigan",
+      "description": "Comfortable and stylish knitted cardigan, perfect for any season.",
+      "excerpt": "Comfortable knitted cardigan for any season.",
+      "price": 280000,
+      "tags": ["cardigan", "women", "knit", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/12/29/8df1ad60-8f7d-4d64-8d84-090138b6f14e.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/12/29/8df1ad60-8f7d-4d64-8d84-090138b6f14e.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Mentari Striped Knit Top",
+      "slug": "ecinos-mentari-striped-knit-top",
+      "description": "Casual knit top with a trendy striped pattern.",
+      "excerpt": "Casual knit top with stripes.",
+      "price": 180000,
+      "tags": ["top", "women", "knit", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/11/10/f1b32730-db1d-4907-aae3-86f9f8eaf3ba.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/11/10/f1b32730-db1d-4907-aae3-86f9f8eaf3ba.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Flo Knitted Polo Top",
+      "slug": "ecinos-flo-knitted-polo-top",
+      "description": "Stylish knitted polo top, perfect for a casual yet polished look.",
+      "excerpt": "Stylish knitted polo top.",
+      "price": 190000,
+      "tags": ["top", "women", "knit", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/1/26/a83a54a6-d1ed-4611-9617-37a485eac95b.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/1/26/a83a54a6-d1ed-4611-9617-37a485eac95b.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Karen Half Zip Sweater",
+      "slug": "ecinos-karen-half-zip-sweater",
+      "description": "Comfortable half-zip sweater, ideal for a cozy and casual look.",
+      "excerpt": "Comfortable half-zip sweater.",
+      "price": 220000,
+      "tags": ["sweater", "women", "knit", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/12/29/6823e2b8-45f0-4637-a60f-3c3075236485.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/12/29/6823e2b8-45f0-4637-a60f-3c3075236485.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Bra Tank (Regular)",
+      "slug": "ecinos-bra-tank-regular",
+      "description": "Versatile bra tank top, perfect for layering or wearing on its own.",
+      "excerpt": "Versatile bra tank top.",
+      "price": 150000,
+      "tags": ["top", "women", "bra", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/11/8/6435535d-7fd6-4916-80f9-7f38697e6d0c.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/11/8/6435535d-7fd6-4916-80f9-7f38697e6d0c.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS Man - Theo Boxy Shirt",
+      "slug": "ecinos-man-theo-boxy-shirt",
+      "description": "Stylish boxy shirt for men, perfect for a modern and relaxed look.",
+      "excerpt": "Stylish boxy shirt for men.",
+      "price": 250000,
+      "tags": ["shirt", "men", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/10/25/4336de0e-bf4d-404e-a052-9b2e48ad70db.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/10/25/4336de0e-bf4d-404e-a052-9b2e48ad70db.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS Man - Summer Oversized Shirt (Man Version)",
+      "slug": "ecinos-man-summer-oversized-shirt",
+      "description": "Casual oversized shirt for men, ideal for a relaxed summer look.",
+      "excerpt": "Casual oversized shirt for men.",
+      "price": 270000,
+      "tags": ["shirt", "men", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/10/25/7be550b2-d166-4be8-b7c5-e5f6af26d254.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/10/25/7be550b2-d166-4be8-b7c5-e5f6af26d254.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Pepper Mini Skort",
+      "slug": "ecinos-pepper-mini-skort",
+      "description": "Trendy mini skort that combines the style of a skirt with the comfort of shorts.",
+      "excerpt": "Trendy mini skort.",
+      "price": 180000,
+      "tags": ["skort", "women", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/2/26/b168ee77-ed4a-4329-8fa6-caf6e7669043.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/2/26/b168ee77-ed4a-4329-8fa6-caf6e7669043.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Salt Pleated Skort",
+      "slug": "ecinos-salt-pleated-skort",
+      "description": "Classic pleated skort perfect for any casual outing.",
+      "excerpt": "Classic pleated skort.",
+      "price": 190000,
+      "tags": ["skort", "women", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/2/26/b8284a6e-cc4b-480a-a075-b59d0e24b7a4.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/2/26/b8284a6e-cc4b-480a-a075-b59d0e24b7a4.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Butter Top - Atasan Wanita (V-Neck Top)",
+      "slug": "ecinos-butter-top-atasan-wanita",
+      "description": "Elegant V-neck top for women, perfect for both casual and formal occasions.",
+      "excerpt": "Elegant V-neck top for women.",
+      "price": 160000,
+      "tags": ["top", "women", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/10/5/b7fbef95-2355-432a-bf2a-06780c7c2d64.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/10/5/b7fbef95-2355-432a-bf2a-06780c7c2d64.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Bread Sleeveless Top",
+      "slug": "ecinos-bread-sleeveless-top",
+      "description": "Comfortable sleeveless top, perfect for warm days and layering.",
+      "excerpt": "Comfortable sleeveless top.",
+      "price": 140000,
+      "tags": ["top", "women", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/9/7/b7acf46f-5b73-478f-b45e-96286c68f915.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/9/7/b7acf46f-5b73-478f-b45e-96286c68f915.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Rice Shirtdress",
+      "slug": "ecinos-rice-shirtdress",
+      "description": "Versatile shirtdress, perfect for a casual yet stylish look.",
+      "excerpt": "Versatile shirtdress.",
+      "price": 200000,
+      "tags": ["dress", "women", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/9/7/bf56f135-cab4-470e-bfd5-ded75126fb2c.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/9/7/bf56f135-cab4-470e-bfd5-ded75126fb2c.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Summer Maxi Skirt",
+      "slug": "ecinos-summer-maxi-skirt",
+      "description": "Lightweight and flowing maxi skirt perfect for summer days.",
+      "excerpt": "Lightweight and flowing maxi skirt.",
+      "price": 220000,
+      "tags": ["skirt", "women", "fashion", "summer"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/9/11/66d82bbb-b5a8-4426-80b5-de5853391e8c.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/9/11/66d82bbb-b5a8-4426-80b5-de5853391e8c.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Summer Oversized Shirt",
+      "slug": "ecinos-summer-oversized-shirt",
+      "description": "Comfortable oversized shirt, ideal for a relaxed summer look.",
+      "excerpt": "Comfortable oversized shirt.",
+      "price": 180000,
+      "tags": ["shirt", "women", "fashion", "summer"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/7/10/1e9d2ead-9a69-44d9-b99c-6dbf7c0f386e.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/7/10/1e9d2ead-9a69-44d9-b99c-6dbf7c0f386e.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Winter Pleated Trousers",
+      "slug": "ecinos-winter-pleated-trousers",
+      "description": "Stylish pleated trousers perfect for winter fashion.",
+      "excerpt": "Stylish pleated trousers.",
+      "price": 240000,
+      "tags": ["trousers", "women", "fashion", "winter"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/9/12/9c0a4166-8da4-43f4-84ae-e03d101a08cc.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/9/12/9c0a4166-8da4-43f4-84ae-e03d101a08cc.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Spring Top",
+      "slug": "ecinos-spring-top",
+      "description": "Fresh and vibrant top, perfect for spring.",
+      "excerpt": "Fresh and vibrant top.",
+      "price": 150000,
+      "tags": ["top", "women", "fashion", "spring"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/7/6/857251aa-69f2-4980-b8b0-09516f89f39b.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/7/6/857251aa-69f2-4980-b8b0-09516f89f39b.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Autumn Flared Trousers",
+      "slug": "ecinos-autumn-flared-trousers",
+      "description": "Comfortable and stylish flared trousers for autumn.",
+      "excerpt": "Comfortable and stylish flared trousers.",
+      "price": 200000,
+      "tags": ["trousers", "women", "fashion", "autumn"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/7/27/3e7abdec-7ced-4028-9332-ce59547762a9.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/7/27/3e7abdec-7ced-4028-9332-ce59547762a9.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - Museum 2.0 Pants",
+      "slug": "ecinos-museum-2-0-pants",
+      "description": "Modern and chic pants, perfect for any occasion.",
+      "excerpt": "Modern and chic pants.",
+      "price": 210000,
+      "tags": ["pants", "women", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/7/26/0726fcc8-036e-4128-a3cf-ad6ee4da7381.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/7/26/0726fcc8-036e-4128-a3cf-ad6ee4da7381.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    },
+    {
+      "name": "ECINOS - 7 Days Shirt - Atasan Wanita (Double Collar Shirt)",
+      "slug": "ecinos-7-days-shirt-atasan-wanita",
+      "description": "Versatile double collar shirt for women, perfect for any day of the week.",
+      "excerpt": "Versatile double collar shirt for women.",
+      "price": 190000,
+      "tags": ["shirt", "women", "fashion"],
+      "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/11/23/42b307f9-a944-48c5-8c63-1542eba69521.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/11/23/42b307f9-a944-48c5-8c63-1542eba69521.jpg"
+      ],
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z"
+    }
+  ]
+}
